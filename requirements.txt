@@ -1,0 +1,17 @@
+# Core TTS & Audio
+edge-tts>=6.1.12
+imageio-ffmpeg>=0.5.1
+pygame>=2.6.0
+
+# Document Parsers
+pypdf>=5.0.0
+python-docx>=1.1.2
+ebooklib>=0.18
+beautifulsoup4>=4.12.3
+
+# UI Framework
+customtkinter>=5.2.2
+pillow>=10.4.0
+
+# Utilities
+tqdm>=4.66.5
